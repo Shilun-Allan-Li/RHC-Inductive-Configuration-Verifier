@@ -8,7 +8,7 @@ this code decides whether $P$ is a *balanced (interior) inductive predicate* in
 the sense of the paper:
 
 - **interior**: $P$ is a *balanced interior inductive predicate*. The paper's
-  main hardness theorem then implies that $\operatorname{fiPCSP}(P,Q)$ admits
+  main hardness theorem then implies that $\mathrm{fiPCSP}(P,Q)$ admits
   *no* polynomial-time UG-robust algorithm for any non-trivial $Q\supseteq P$.
 - **boundary**: $P$ is a *balanced boundary inductive predicate*.
 - **non-inductive**: $P$ is not a balanced inductive predicate of either kind.
