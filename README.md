@@ -3,9 +3,9 @@
 Companion code for the paper *Multivariate Reverse Hypercontractivity on the Sphere with applications to promise CSPs*.
 
 For every Boolean predicate $P$ in the four predicate families of
-Austrin–Håstad–Martinsson [Tables 14, 15, 21, 22]([austrin2026usefulness]),
-this code decides whether $P$ is a *balanced (interior) inductive predicate* in
-the sense of the paper:
+[Austrin–Håstad–Martinsson](https://arxiv.org/pdf/2511.21450) (Tables 14, 15,
+21, 22), this code decides whether $P$ is a *balanced (interior) inductive
+predicate* in the sense of the paper:
 
 - **interior**: $P$ is a *balanced interior inductive predicate*. The paper's
   main hardness theorem then implies that $\mathrm{fiPCSP}(P,Q)$ admits
